@@ -1,0 +1,1 @@
+cat promise.txt crucialpromise.txt > new_ofpromise

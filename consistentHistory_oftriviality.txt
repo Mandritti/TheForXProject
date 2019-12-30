@@ -1,0 +1,1 @@
+echo 'Many can agree on the formula, frame, or theory that explains, contains, or accounts of the convergent ~explanans (=terms doing explanation, containment, accounting, ... et cetera)' > convergence_evidence.txt

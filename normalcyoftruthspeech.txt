@@ -1,0 +1,1 @@
+cat promise_echotriviality.txt truth_ofpromise.txt > words.txt

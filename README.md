@@ -1,1 +1,9 @@
-Readme file
+The naming convention for branches on this repository is, if I do it correctly, an arity prefix notation, as seen in some course textbooks for propositional logic.  Each branch after master flows from a branch named Plantation, and ends with 'Ver' (for version).  Branches grow from another branch, but some branches of this repository are growths of two or more branches; in either case, label them its "sires".  The child branches sired from any branch are named for their 'principle concern', with a preceding underscore, as their "first name".  The chief name, or simply name, of a branch is one that traces that principle concern to the base Plantation with single underscores.  The child branches get a 'full name' from their sires by writing as the following demonstrates (postfixing 'Ver'):
+  IN REVERSE, write according to the following rule: the first name for the child; then a number of underscores equal to the number of sires beyond 1 for that child; then the full names of each sire TRIMMING any prepend (=simple name started from Plantation) those names have in common; then 'Ver'; then the prepend clipped that way ->equivalently, the full name of the latest single ancestor to all the sires of the new branch.  (Remember, the first name of a branch includes one preceding underscore.)
+
+Convention, if we can remember, shall distinguish recognizable words within a branch name, and the underscores - if verified - separate the names.
+
+At present, there is no example branch of two sires.
+
+Example:  ''' Plantation_Promise_Clarity_ConfoundsVer ''' spells out a branch principally concerned with Confounds, sired by one beyond 1 (=two) branches, Clarity and Triviality, and the branch name averrs that Plantation_Promise is the branch name that _Clarity and _Triviality can trace their genesis from.  In this case, _Clarity and _Triviality have just one sire each, and their lineage is expressed in common with the prepend up to Plantation_Promise.
+

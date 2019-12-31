@@ -1,0 +1,1 @@
+cat new_ofpromise intent.txt clarity.txt
